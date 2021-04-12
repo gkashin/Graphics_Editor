@@ -1,6 +1,7 @@
 # Graphics Editor
 
-Simple Drawing App as a *test assignment for JetBrains Internships 2021*
+Simple Drawing App as a test assignment for *JetBrains Internships 2021*
+\
 [![](https://user-images.githubusercontent.com/50011154/114427729-0bdf2200-9bc4-11eb-9e6d-41a4035701f1.png)](https://flutter.dev)
 
 ## Getting Started
