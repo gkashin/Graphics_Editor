@@ -1,7 +1,9 @@
 # Graphics Editor
 
-Test task for JetBrains Internships 2021
+Simple Drawing App as a *test assignment for JetBrains Internships 2021*
+<p align="center">
 [![](https://user-images.githubusercontent.com/50011154/114427729-0bdf2200-9bc4-11eb-9e6d-41a4035701f1.png)](https://flutter.dev)
+</p>
 
 ## Getting Started
 
@@ -34,4 +36,4 @@ This app allows you to paint using the following simple actions:
 ![drawing](https://user-images.githubusercontent.com/50011154/114428098-72fcd680-9bc4-11eb-8c84-b0f3505ed19c.png)
 
 ## Dependencies
-This project contains [*ColorPicker*](https://pub.dev/packages/flutter_colorpicker) library to implement color change
+This project uses the [*Color Picker*](https://pub.dev/packages/flutter_colorpicker) library to change the color
