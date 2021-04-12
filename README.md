@@ -1,6 +1,8 @@
 # Graphics Editor
 
 Simple Drawing App as a test assignment for *JetBrains Internships 2021*
+
+[![](https://user-images.githubusercontent.com/50011154/114430457-1cdd6280-9bc7-11eb-8c1c-f363cbe5c0cd.png)](https://pub.dev/packages/flutter_colorpicker)
 \
 [![](https://user-images.githubusercontent.com/50011154/114427729-0bdf2200-9bc4-11eb-9e6d-41a4035701f1.png)](https://flutter.dev)
 
