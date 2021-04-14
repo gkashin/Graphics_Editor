@@ -22,7 +22,7 @@ This app allows you to paint using the following simple actions:
 * Draw with a pencil
 * Choose different colors
 * Erase something bad
-* Draw a line or a quadrilateral
+* Draw a line or a rectangle
 * Adjust line thickness 
 * Clear the canvas completely
 
